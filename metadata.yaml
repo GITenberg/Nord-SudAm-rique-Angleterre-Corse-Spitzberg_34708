@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1348
     wikipedia: http://en.wikipedia.org/wiki/René_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34708#Nord-SudAm-rique-Angleterre-Corse-Spitzberg
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2010-12-20'
 gutenberg_type: Text
