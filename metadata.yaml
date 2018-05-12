@@ -1,0 +1,34 @@
+_repo: Nord-SudAm-rique-Angleterre-Corse-Spitzberg_34708
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2010-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34708'
+  lccn: '13004071'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Corsica (France) -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'G'
+- !lcsh 'Spitsbergen Island (Norway) -- Description and travel'
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+title: 'Nord-Sud: Amérique; Angleterre; Corse; Spitzberg'
+url: http://www.gutenberg.org/ebooks/34708
